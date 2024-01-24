@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+E:\Practices\kosmos\.metadata\.plugins\org.eclipse.jdt.core
+917888846.index
+500696683.index
+1033048592.index
+1865797976.index
